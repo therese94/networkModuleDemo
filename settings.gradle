@@ -1,0 +1,3 @@
+rootProject.name = "NetWorkModuleDemo"
+include ':app'
+include ':networkModule'
